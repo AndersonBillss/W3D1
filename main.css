@@ -1,0 +1,61 @@
+body, h1, h2, h3, p {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+body {
+    background-color: lightyellow;
+}
+
+.top {
+    background-color: orange;
+    padding: 10px 0 35px 0; 
+    margin-bottom: 30px;
+    color: white;
+    font-size: 20px;
+}
+
+.title {
+    float: left;
+    margin: 0 0px 20px 30px;
+}
+
+.links {
+    float: right;
+    margin: 0 30px 20px 0;
+    word-spacing: 20px;
+}
+
+.stuff {
+    text-align: center;
+    clear: both;
+}
+
+.blocks {
+    display: inline-block;
+}
+
+.pages {
+
+    background-color: white;
+    border: 2px solid orange;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    width: 350px;
+    float: left;
+}
+
+.content {
+    margin: 20px 50px 500px 50px;
+
+}
+
+.info {
+    text-align: center;
+    background-color: orange;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
